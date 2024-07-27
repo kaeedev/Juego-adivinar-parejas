@@ -6,5 +6,5 @@
 </ul>
 
 <h2 align="center">Previsualizacion</h2>
-<img = ![image](https://github.com/user-attachments/assets/54da8006-17f1-45fd-86c5-7fc9b8f95be3)>
+<img src="![image](https://github.com/user-attachments/assets/54da8006-17f1-45fd-86c5-7fc9b8f95be3)>
 
