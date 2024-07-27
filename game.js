@@ -1,4 +1,4 @@
-import { shuffleArray } from "../utils/utils";
+import { shuffleArray } from "utils.js";
 
 import Box from "./Box";
 import Timer from "./Timer";
