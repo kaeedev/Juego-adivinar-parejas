@@ -6,5 +6,6 @@
 </ul>
 
 <h2 align="center">Previsualizacion</h2>
-<img src="![image](https://github.com/user-attachments/assets/54da8006-17f1-45fd-86c5-7fc9b8f95be3)>
+![image](https://github.com/user-attachments/assets/0f6ad198-a8c1-40a4-a0d1-20c27a95010b)
+
 
