@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Adivinar parejas</title>
+  </head>
+  <body>
+    <main>
+      <h1>Juguemos a adivinar las parejas</h1>
+
+      <div class="instrucciones">
+        <h2>Instrucciones</h2>
+        <ul class="info">
+          <li> El programa preguntará cuantas filas y columnas quieres y a partir de ahí creará el tablero.</li>
+          <li>El juego se guardará aunque recargues la página o cierres el navegador, así que no te preocupes</li>
+          <li>El cronómetro se parará cuando adivines todas las parejas y podrás ver cuanto tiempo has tardado</li>
+          <li>Si deseas cambiar el tamaño del tablero dale click al boton <strong>"Reiniciar"</strong></li>
+          
+        </ul>
+
+        <p>
+          <button id="reset">Reiniciar</button>
+        </p>
+      </div>
+
+      <hr>
+
+      <section id="game"></section>
+
+    </main>
+    
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
