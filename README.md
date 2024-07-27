@@ -6,4 +6,4 @@
 </ul>
 
 <h2 align="center">Previsualizacion</h2>
-![image](https://github.com/user-attachments/assets/f51caecf-8452-4294-8cf8-a4db0ac32f24)
+<img src="![image](https://github.com/user-attachments/assets/f51caecf-8452-4294-8cf8-a4db0ac32f24)">
