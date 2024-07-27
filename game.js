@@ -1,7 +1,7 @@
 import { shuffleArray } from "utils.js";
 
-import Box from "./Box";
-import Timer from "./Timer";
+import Box from "Box.js";
+import Timer from "Timer.js";
 
 class Game {
   #rows;
