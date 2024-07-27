@@ -1,4 +1,4 @@
-import Game from "./class/game";
+import Game from "game.js";
 
 let resetButton = document.getElementById("reset");
 resetButton.addEventListener("click", () => {
